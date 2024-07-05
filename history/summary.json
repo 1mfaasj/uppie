@@ -1,8 +1,8 @@
 [
   {
     "name": "Plaus",
-    "url": "https://plausible.d4bbe.com",
-    "icon": "https://icons.duckduckgo.com/ip3/plausible.d4bbe.com.ico",
+    "url": "$PLAUS",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plaus",
     "status": "down",
     "uptime": "0.00%",
@@ -10,33 +10,33 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 138,
-    "timeDay": 138,
-    "timeWeek": 138,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "time": 137,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-07-05": 0
+      "2024-07-05": 4
     }
   },
   {
     "name": "Graf",
-    "url": "https://grafana.d4bbe.com",
-    "icon": "https://icons.duckduckgo.com/ip3/grafana.d4bbe.com.ico",
+    "url": "$GRAF",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graf",
     "status": "down",
-    "uptime": "3.16%",
-    "uptimeDay": "3.16%",
-    "uptimeWeek": "3.16%",
-    "uptimeMonth": "3.16%",
-    "uptimeYear": "3.16%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
+    "time": 141,
+    "timeDay": 141,
+    "timeWeek": 141,
+    "timeMonth": 141,
+    "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-07-05": 0
+      "2024-07-05": 4
     }
   }
 ]
