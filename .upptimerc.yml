@@ -4,18 +4,23 @@ repo: uppie
 sites:
   - name: Plaus
     url: $PLAUS
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
   - name: Graf
     url: $GRAF
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
+# dit is 10 sec
 
 assignees:
   - 1mfaasj
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  robotsText: "User-agent: * \n Disallow: /"
   cname: uppie.d4bbe.com
   baseUrl: /uppie
-#  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uppie
   introTitle: "**Uppie** de status pagina"
   navbar:
