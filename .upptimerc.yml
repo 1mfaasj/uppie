@@ -3,9 +3,9 @@ repo: uppie
 
 sites:
   - name: Plaus
-    url: https://plausible.d4bbe.com
+    url: $PLAUS
   - name: Graf
-    url: https://grafana.d4bbe.com
+    url: $GRAF
 
 assignees:
   - 1mfaasj
