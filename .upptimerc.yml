@@ -20,7 +20,6 @@ assignees:
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
   cname: uppie.d4bbe.com
-  baseUrl: /uppie
   name: Uppie
   introTitle: "**Uppie** de status pagina"
   navbar:
