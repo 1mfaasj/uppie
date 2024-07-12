@@ -27,3 +27,51 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  activeIncidents: Actieve incidenten
+  allSystemsOperational: Alles is operationeel
+  incidentReport: "Incident #$NUMBER report →"
+  activeIncidentSummary: Geopend op $DATE met $POSTS posts
+  incidentTitle: Incident $NUMBER details
+  incidentDetails: Incident details
+  incidentFixed: Opgelost
+  incidentOngoing: Ongoing
+  incidentOpenedAt: Geopend op
+  incidentClosedAt: Gesloten op
+  incidentViewOnGitHub: Bekijk en abonneer op GitHub
+  incidentCommentSummary: Geplaatst op $DATE door $AUTHOR
+  incidentBack: ← Terug naar alle incidenten
+  pastIncidents: Incidenten uit het verleden
+  pastIncidentsResolved: Opgelost in $MINUTES minuten met $POSTS berichten
+  liveStatus: Live status
+  overallUptime: "Overall uptime: $UPTIME"
+  overallUptimeTitle: Overall uptime
+  averageResponseTime: "Gemiddelde reactietijd: $TIMEms"
+  averageResponseTimeTitle: Gemiddelde reactie
+  sevelDayResponseTime: 7-dagen reactietijd
+  responseTimeMs: Reactietijd (ms)
+  up: Online
+  down: Offline
+  degraded: Gedegradeerd
+  loading: Laden
+  footer: .
+  errorTitle: Er is een fout opgetreden
+  errorIntro: Er is een fout opgetreden bij het ophalen van de meest recente statusgegevens.
+  errorText: Je kunt het over enkele ogenblikken opnieuw proberen.
+  errorHome: Ga naar de voorpagina
+  pastScheduledMaintenance: Eerder gepland onderhoud
+  scheduledMaintenance: Gepland onderhoud
+  scheduledMaintenanceSummaryStarted: Gestart op $DATE voor $DURATION minuten
+  scheduledMaintenanceSummaryStarts: Begint op $DATE voor $DURATION minuten
+  startedAt: Begonnen op
+  startsAt: Begint om
+  duration: Duur
+  durationMin: $DURATION minuten
+  incidentCompleted: Voltooid
+  incidentScheduled: Gepland
+  duration24H: 24uur
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1jaar
+  durationAll: alles
