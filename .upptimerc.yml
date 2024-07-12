@@ -45,8 +45,8 @@ i18n:
   pastIncidents: Incidenten uit het verleden
   pastIncidentsResolved: Opgelost in $MINUTES minuten met $POSTS berichten
   liveStatus: Live status
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
+  overallUptime: "Overal uptime: $UPTIME"
+  overallUptimeTitle: Overal uptime
   averageResponseTime: "Gemiddelde reactietijd: $TIMEms"
   averageResponseTimeTitle: Gemiddelde reactie
   sevelDayResponseTime: 7-dagen reactietijd
