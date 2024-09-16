@@ -4,7 +4,7 @@
     "url": "$PLAUS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plaus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 768,
+    "time": 802,
+    "timeDay": 771,
     "timeWeek": 781,
     "timeMonth": 805,
-    "timeYear": 801,
+    "timeYear": 802,
     "dailyMinutesDown": {}
   }
 ]
