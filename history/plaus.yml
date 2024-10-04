@@ -1,7 +1,7 @@
 url: $PLAUS
-status: up
-code: 200
-responseTime: 5574
-lastUpdated: 2024-10-04T06:36:35.028Z
+status: down
+code: 521
+responseTime: 190
+lastUpdated: 2024-10-04T06:48:30.680Z
 startTime: 2024-07-05T19:46:08.798Z
 generator: Upptime <https://github.com/upptime/upptime>
