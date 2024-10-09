@@ -1,20 +1,20 @@
 [
   {
-    "name": "Plaus",
-    "url": "$PLAUS",
+    "name": "Uptime",
+    "url": "$UPTIME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "plaus",
-    "status": "up",
+    "slug": "uptime",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 566,
-    "timeWeek": 509,
-    "timeMonth": 512,
-    "timeYear": 532,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 789,
-    "timeDay": 933,
+    "timeDay": 753,
     "timeWeek": 776,
-    "timeMonth": 758,
+    "timeMonth": 756,
     "timeYear": 789,
     "dailyMinutesDown": {}
   }
