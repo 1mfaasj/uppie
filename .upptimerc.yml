@@ -2,8 +2,8 @@ owner: 1mfaasj
 repo: uppie
 
 sites:
-  - name: Plaus
-    url: $PLAUS
+  - name: Uptime
+    url: $UPTIME
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
