@@ -1,7 +1,7 @@
 url: $GRAF
-status: down
-code: 500
-responseTime: 5549
-lastUpdated: 2024-10-11T09:17:56.882Z
+status: up
+code: 200
+responseTime: 566
+lastUpdated: 2024-10-11T09:30:33.891Z
 startTime: 2024-07-05T19:46:10.436Z
 generator: Upptime <https://github.com/upptime/upptime>
