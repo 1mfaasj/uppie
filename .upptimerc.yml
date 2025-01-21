@@ -2,13 +2,13 @@ owner: 1mfaasj
 repo: uppie
 
 sites:
-  - name: Uptime
-    url: $UPTIME
+  - name: Hier
+    url: $HIER
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
-  - name: Graf
-    url: $GRAF
+  - name: Daar
+    url: $DAAR
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
