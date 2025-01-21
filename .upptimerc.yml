@@ -2,14 +2,14 @@ owner: 1mfaasj
 repo: uppie
 
 sites:
-  - name: Hier
+  - name: HIER
     check: "tcp-ping"
     url: $HIER
     port: 80
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
-  - name: Daar
+  - name: DAAR
     check: "tcp-ping"
     url: $DAAR
     port: 80
