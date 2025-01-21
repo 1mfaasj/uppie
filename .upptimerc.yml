@@ -3,12 +3,16 @@ repo: uppie
 
 sites:
   - name: Hier
+    check: "tcp-ping"
     url: $HIER
+    port: 80
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
   - name: Daar
+    check: "tcp-ping"
     url: $DAAR
+    port: 80
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
