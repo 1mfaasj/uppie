@@ -4,7 +4,7 @@
     "url": "$HIER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hier",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
+    "time": 121,
     "timeDay": 118,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "timeWeek": 121,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]
