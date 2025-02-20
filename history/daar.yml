@@ -1,7 +1,7 @@
 url: $DAAR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-20T15:55:12.237Z
+status: up
+code: 200
+responseTime: 95
+lastUpdated: 2025-02-20T16:19:14.358Z
 startTime: 2025-01-21T11:10:40.083Z
 generator: Upptime <https://github.com/upptime/upptime>
