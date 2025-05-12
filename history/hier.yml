@@ -1,7 +1,7 @@
 url: $HIER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-12T07:14:38.816Z
+status: up
+code: 200
+responseTime: 92
+lastUpdated: 2025-05-12T07:31:49.851Z
 startTime: 2025-01-21T11:10:39.311Z
 generator: Upptime <https://github.com/upptime/upptime>
